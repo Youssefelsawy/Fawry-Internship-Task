@@ -22,3 +22,6 @@
 
 - Added a --help option to display usage instructions.
 - Improved handling of command-line arguments with getopts for cleaner and more efficient option parsing.
+
+## Q2: Internal Service Unreachable
+i have recieved one email which indicated that the deadline updated but never recieved any email before that indicates to the task so i have only one day to do so i tried it internally with my os (windows) 
